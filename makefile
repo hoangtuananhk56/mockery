@@ -1,4 +1,7 @@
-test:
+#Run all tests
+test: 
 	go test ./calculations
-gen:
+
+# Generate mocks
+gen: 
 	mockery --all

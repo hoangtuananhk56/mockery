@@ -32,7 +32,7 @@ If you want to generate one more time with all mocking function, firstly, you sh
 mockery --all
 ```
 After that, you are going see the project makes a new mocks folder and some files generation. They are generated via interface inside of project.
-
+On the other hand, you can use the make file to run commands
 
 ## Running the tests
 
